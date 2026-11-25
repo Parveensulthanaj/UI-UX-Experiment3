@@ -31,7 +31,8 @@ To design a premium, mobile-first OTT streaming app interface called VYBE. It sh
 END
 
 ## Output:
-<img width="226" height="110" alt="image" src="https://github.com/user-attachments/assets/88df58a7-924e-4d34-8a45-e2b303d2dca6" />
+<img width="382" height="212" alt="image" src="https://github.com/user-attachments/assets/3373411f-7df8-421b-b247-0050420ab1ea" />
+
 
 ## Result:
 1.A complete, consistent design for the core OTT journey (discover → watch → download).
